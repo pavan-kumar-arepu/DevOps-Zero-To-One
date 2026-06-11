@@ -1,0 +1,77 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.Python
+env/
+venv/
+.venv/
+venv.bak/
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.tox/
+.coverage
+.coverage.*
+htmlcov/
+.mypy_cache/
+.pyre/
+.pytype/
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.dylib
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# JetBrains
+.idea/
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# Editor temp files
+*~
+*.swp
+
+# Environment files
+.env
+.env.*
+
+# OS files
+Thumbs.db
+
+# Coverage
+.coverage
+coverage.xml
+
+# Others
+.cache/
+
+# Hide local settings
+.local/
