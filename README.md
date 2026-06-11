@@ -1,6 +1,3 @@
-# DevOps-Zero-To-One
-
-
 # 🚀 DevOps Zero To One
 
 A practical beginner-friendly journey from a simple Python file to a real-world DevOps pipeline.
